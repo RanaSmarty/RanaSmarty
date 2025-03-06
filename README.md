@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RanaSmarty
+- 🔍 I’m a beginner developer passionate about Java programming, software development, and open-source contributions
+- 🌱 I’m currently learning Java, Git, and C++ and improving my skills every day
+- 💻 I’m looking to collaborate on open-source projects, software development, and educational content
+- 📬 Feel free to reach out to me at ranasmarty00@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love solving algorithmic challenges and exploring new technologies!
